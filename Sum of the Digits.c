@@ -8,7 +8,9 @@
     while(num)
     {
         rem=num%10;
+
         sum=sum+rem;
+
         num=num/10;
         
     }
