@@ -13,6 +13,6 @@
         
     }
       printf("\nThe sum of the digites%d\n",sum);
-    return 0;
+    return 1;
       
   }
