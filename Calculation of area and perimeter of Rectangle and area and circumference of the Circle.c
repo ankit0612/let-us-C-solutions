@@ -16,6 +16,6 @@
       printf("\n\nArea of the Circle%f",ar2);
       printf("\n\nCircumference of the Circle%f",circum);
        
-       return 0;
+       return 1;
  }
 
