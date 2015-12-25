@@ -4,7 +4,7 @@ int main()
     int num;
     int sum=0,i,lastDigit;
 
-    printf("Enter any positive number more than one digit");
+    printf("Enter any positive no more than one digit");
     scanf("%d",&num);
 
     sum = sum + num % 10;
